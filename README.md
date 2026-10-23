@@ -72,6 +72,3 @@ Invalid format: expected a dictionary at position 2.
 Invalid format: {...} at position 1 has missing and/or invalid keys.
 ```
 
-## License
-
-Add a license of your choice, such as MIT.
